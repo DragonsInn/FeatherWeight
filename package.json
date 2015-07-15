@@ -1,0 +1,29 @@
+{
+  "name": "featherweight",
+  "version": "0.0.0",
+  "description": "Lightweight persistent cache that restores itself from the filesystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonsInn/FeatherWeight.git"
+  },
+  "keywords": [
+    "db",
+    "server",
+    "database",
+    "lightweight",
+    "cache"
+  ],
+  "author": "Ingwie Phoenix <ingwie2000@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DragonsInn/FeatherWeight/issues"
+  },
+  "homepage": "https://github.com/DragonsInn/FeatherWeight#readme",
+  "dependencies": {
+    "hprose": "^1.6.4"
+  }
+}
